@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RafaelLOliveira
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning about Android development.
 
 <div align="center">
   <a href="https://github.com/RafaelLOliveira">
